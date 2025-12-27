@@ -1,0 +1,5 @@
+{
+  "name": "tOdoo Sales Analytics",
+  "description": "A comprehensive sales dashboard simulating Odoo integration with real-time analytics, filtering, and data visualization.",
+  "requestFramePermissions": []
+}
